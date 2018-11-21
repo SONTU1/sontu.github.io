@@ -1,0 +1,61 @@
+
+@import url('https://fonts.googleapis.com/css?family=Muli:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i&subset=latin-ext,vietnamese');
+
+*{margin:0;padding:0;}
+body{font-family:roboto condensed;}
+img{max-width:100%;}
+
+.headerArea{border-bottom:2px solid red;background-color: aliceblue;}
+.headerArea h1{}
+.continers{width:1140px;margin:auto;padding:0px 5px; }
+.continers .logo{width:90px;}
+.header_iner{padding:3px 0px;display:table;}
+.header_left{width:200px;float:left;}
+.header_right{width:900px;float:right;}
+.header_right ul{width:700px;list-style:none; margin:0;padding:0;float:right;margin-top:40px;margin-left:20px;text-align:center;}
+.header_right ul li{display:inline-block;}
+.header_right ul li a{font-size:200
+px;text-decoration:none;padding:10px 15px;text-transform:uppercase;transition:all 0.5s;}
+.header_right ul li a:hover{background:red;color:white;border-radius:5px;}
+section#selaider{margin-top:2px;}
+#comslider_in_point_1714493{}
+section#homeimg img{}
+.copy_right_text h1{background:#848484;text-align:center;color:#87CEFA;margin-bottom:4px;padding:10px;border:3px double #0000CD;font-size:16px;}
+.copy_right_text h1 p a{display:inline-block;color:#FF6347;text-decoration:none;}
+.copy_right_text p{display:inline-block;}
+section#noti{background-color:#8a2be2;}
+.continers marquee {color:red; font-size:20px;}
+.continers1{width:1140px;margin:auto;padding:0px 5px;}
+#downlod {padding-bottom: 471px;background-color:#1723054f;padding-top: 35px}
+.continers1 h1 {
+    border: 5px solid #ccff00;
+    margin-right: 593px;
+    text-align: center;
+    padding-top: 5px;
+    color: #008b8b;
+}
+.continers1 h2 {
+   
+    margin-right: 604px;
+    text-align: center;
+    padding-top: 5px;
+    color: #098b00;
+}
+.continers1 ul li{}
+.continers1 ul {
+    padding-left: 110px;
+    border: 2px solid red;
+    margin-right: 630px;
+    padding-top: 9px;
+    font-size: 24px;
+	padding-bottom: 41px;
+}
+.continers1  a {
+    background-color: #e0ffe199;
+    border: 3px solid #098b00;
+    text-decoration: none;
+    margin-left: 58px;
+    font-size: 21px;
+	text-transform:uppercase;transition:all 0.5s;
+}
+.continers1 a:hover{background:red;color:white;border-radius:5px;}
